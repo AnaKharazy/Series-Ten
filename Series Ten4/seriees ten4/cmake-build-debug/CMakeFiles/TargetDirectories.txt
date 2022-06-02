@@ -1,0 +1,3 @@
+C:/Users/USER/Desktop/Series Ten4/seriees ten4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/USER/Desktop/Series Ten4/seriees ten4/cmake-build-debug/CMakeFiles/seriees_ten4.dir
+C:/Users/USER/Desktop/Series Ten4/seriees ten4/cmake-build-debug/CMakeFiles/edit_cache.dir
